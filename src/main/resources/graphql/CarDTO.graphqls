@@ -1,0 +1,7 @@
+type CarDTO{
+    id_Car: Float
+    model: String
+    color: String
+    matricul: String
+    price: Float
+}
